@@ -3,12 +3,4 @@ title: Festus Aigbogun
 description: Hello, I am a dedicated data analyst with a year of hands-on experience in SQL, PowerBI, Tableau, and Microsoft Excel. I leverage these tools to meticulously analyze complex datasets, derive actionable insights, and present compelling visualizations. My expertise lies in transforming raw data into meaningful narratives, enabling informed decision-making for organizations. I bring a combination of technical proficiency, analytical acumen, and a passion for unlocking the value hidden within data.
 #show_downloads: true
 theme: jekyll-theme-cayman
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7P9ECBFWPB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-7P9ECBFWPB');
-</script>
