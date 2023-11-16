@@ -1,5 +1,7 @@
-// _layouts/default.html
+<head>
 ...
- {% include analytics.html %}
+  {% raw %}{% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}{% endraw %}
 </head>
 <body>
