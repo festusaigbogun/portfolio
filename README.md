@@ -1,4 +1,4 @@
-# Data Analyst 
+# My Data Analyst Projects 
 
 ## PROJECT 1
 
