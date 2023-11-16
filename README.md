@@ -1,13 +1,5 @@
 # Festus Portfolio
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7P9ECBFWPB"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-7P9ECBFWPB');
-</script>
 
 ## PROJECT 1: [International Debt Statistics Analysis (SQL)](https://github.com/festusaigbogun/SQL_Data_Analysis/blob/main/International%20Debt%20Statistic%20Analysis/Analyzing_International_Debt.ipynb)
 In this project, we are going to analyze international dept data collected by The World Bank. The dataset contains information about the amount of dept (in USD) owned by developing countries across several categories. We are going to find the answers to questions like:
