@@ -34,9 +34,13 @@ This project was focused on all space missions from 1957 to August 2022, includi
 
 The growth of supermarkets in most populated cities are increasing and market competitions are also high. The dataset is one of the historical sales of supermarket company which has recorded in 3 different branches for 3 months data. The dataset contains 1,001 rows. The data was gotten from kaggle
 
+![](https://github.com/festusaigbogun/portfolio/blob/main/Images/1_fiDAhrdrkNTHc0FlSl3l-w.png) 
+
 
 ## PROJECT 5
 
 [**Sales Analysis Project (Excel)**](https://github.com/festusaigbogun/My_First_Excel_Project)
 
 This project involves analyzing a dataset comprising gross sales, COGS, and profit data, organized by market segment and country region. The dataset contains 701 rows. This dataset was gotten from KAGGLE.
+
+![](https://github.com/festusaigbogun/portfolio/blob/main/Images/EXCEL_v950OurQTN~5.png) 
