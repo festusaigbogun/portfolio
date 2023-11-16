@@ -1,4 +1,4 @@
-# My Data Analyst Portfolio
+# Festus Portfolio
 
 
 ## PROJECT 1: [International Debt Statistics Analysis (SQL)](https://github.com/festusaigbogun/SQL_Data_Analysis/blob/main/International%20Debt%20Statistic%20Analysis/Analyzing_International_Debt.ipynb)
