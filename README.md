@@ -12,7 +12,7 @@ What is the total amount of debt that is owed by the countries listed in the dat
 
 Welcome to a comprehensive analysis of website performance throughout the year. This project delves into crucial metrics impacting our online presence, including user engagement, traffic sources, and conversion rates. By leveraging the robust capabilities of Google Analytics 4 and Looker Studio, I've navigated through intricate data landscapes to derive actionable insights. Using Google analytics 4 demo account to get the data needed for this project since I don't have a website that has been tagged, then I proceeded with using Google looker studio to create the dashboard.
 
-![](https://github.com/festusaigbogun/Analyzing_Website_Performance/blob/main/Image/Screenshot_20231201_160917_cn.wps.moffice_eng~2.jpg) 
+![](https://github.com/festusaigbogun/Analyzing_Website_Performance/blob/main/Image/Screenshot_20231201_160917_cn.wps.moffice_eng~2.png?raw=true)
 
 
 ## PROJECT 3: [Superstore Sales Dashboard (PowerBi)](https://github.com/festusaigbogun/PowerBI_Portfolio_Project)
